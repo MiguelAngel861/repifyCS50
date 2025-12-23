@@ -1,8 +1,0 @@
-# General Environment
-python-dotenv
-
-# Flask Environment
-Flask
-
-#Spotify Environment
-Spotipy
